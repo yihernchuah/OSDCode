@@ -1,5 +1,5 @@
 
-const myJSON = '{"name":"John", "age":31, "city":"New York"}';
+const myJSON = '{"name":"John", "age":41, "city":"New York"}';
 
 console.log('JSON ' + myJSON);
 
